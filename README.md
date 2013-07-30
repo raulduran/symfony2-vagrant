@@ -80,5 +80,7 @@ To speed up the startup process use ```$ vagrant up --no-provision``` (thanks to
     
 * Edit ```web/app_dev.php``` to allow host
 
+    Change 127.0.0.1 by 33.33.33.1
+
 ## TODO
 You tell me
